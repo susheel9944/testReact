@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "email": "susheel4me@gmail.com",
+      "username": "susheel4me",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "email": "amit@gmail.com",
+      "username": "amit4me",
+      "password": "Susheel@9944",
+      "id": 2
+    },
+    {
+      "email": "hari@gmail.com",
+      "username": "hari4me",
+      "password": "Susheel@9944",
+      "id": 3
+    }
+  ]
+}

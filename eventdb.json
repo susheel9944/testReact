@@ -1,0 +1,65 @@
+{
+  "events": [
+    {
+      "eventName": "Amit kumar",
+      "eventDate": "2023-04-05",
+      "eventDesc": "Testing",
+      "price": "8900",
+      "premiumbook": false,
+      "termcondition": true,
+      "id": 1
+    },
+    {
+      "eventName": "Jay singh",
+      "eventDate": "2023-05-08",
+      "eventDesc": "Testing",
+      "price": "7632",
+      "premiumbook": true,
+      "termcondition": true,
+      "id": 2
+    },
+    {
+      "eventName": "kunal singh",
+      "eventDate": "2023-06-09",
+      "eventDesc": "testing",
+      "price": "8934",
+      "premiumbook": false,
+      "termcondition": true,
+      "id": 3
+    },
+    {
+      "eventName": "Sunil kumar",
+      "eventDate": "2023-06-05",
+      "eventDesc": "testing",
+      "price": "45356",
+      "premiumbook": {
+        "eventName": "Sunil kumar",
+        "eventDate": "2023-06-05",
+        "eventDesc": "testing",
+        "price": "",
+        "premiumbook": false,
+        "termcondition": true,
+        "id": 4
+      },
+      "termcondition": {
+        "eventName": "Sunil kumar",
+        "eventDate": "2023-06-05",
+        "eventDesc": "testing",
+        "price": "",
+        "premiumbook": false,
+        "termcondition": true,
+        "id": 4
+      },
+      "id": 4
+    },
+    {
+      "eventName": "seema singh",
+      "eventDate": "2023-08-06",
+      "eventDesc": "testing",
+      "price": "5363",
+      "premiumbook": true,
+      "termcondition": true,
+      "id": 5
+    }
+  ]
+}

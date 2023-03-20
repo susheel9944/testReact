@@ -1,0 +1,9 @@
+.formElement {
+    width: 25%;
+    padding-top: 20px;
+   margin:  0 auto;
+   text-align: left;
+}
+.btnSub{
+    float: right;
+}
